@@ -119,6 +119,12 @@ install_spotify() {
     sudo snap install spotify
 }
 
+# Função para instalar o Git
+install_git() {
+    echo "Instalando Git..."
+    sudo apt-get install -y git
+}
+
 # Verificar se o sistema é baseado em Debian
 check_debian
 
@@ -130,6 +136,7 @@ install_vscode
 install_discord
 install_github_desktop
 install_spotify
+install_git
 
 echo "Instalação concluída."
  ```
