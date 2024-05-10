@@ -20,6 +20,7 @@ Script de Instalação
 - Visual Studio Code
 - Discord
 - GitHub Desktop
+- Git
 - Spotify
 
 
