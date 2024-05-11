@@ -7,9 +7,11 @@ Para instalar o Linux Mint, siga os seguintes passos:
 
 ## Baixe a imagem ISO mais recente do site oficial do Linux Mint.
 
-- <a href="https://linuxmint.com/download_lmde.php" target="_blank">Baixe clicando aqui</a>.
+- [Baixe o linux mint clicando aqui](https://linuxmint.com/download_lmde.php){:target="_blank"}
 
-- Crie um pen drive bootável utilizando uma ferramenta como o <a href="https://rufus.ie/pt_BR/" target="_blank">Rufus</a>. Para isso, insira o pen drive, abra o Rufus, selecione a imagem ISO baixada e o pen drive correto, e clique em "Iniciar".
+<!-- - <a href="https://linuxmint.com/download_lmde.php" target="_blank">Baixe clicando aqui</a>. -->
+
+- Crie um pen drive bootável utilizando uma ferramenta como o [Rufus](https://rufus.ie/pt_BR/){:target="_blank"} Para isso, insira o pen drive, abra o Rufus, selecione a imagem ISO baixada e o pen drive correto, e clique em "Iniciar".
 
 - Reinicie o seu computador e inicie a partir do pen drive. Siga as instruções na tela para instalar o Linux Mint.
 Script de Instalação
