@@ -1,5 +1,9 @@
 # Debian-for-Devs
 
+
+<img src="https://i.imgur.com/hAvlVzh.png" alt="GIF" data-canonical-src="https://i.imgur.com/hAvlVzh.png" style="max-width: 50%;">
+
+
 - Este repositório visa fornecer um guia detalhado para configurar um ambiente de desenvolvimento no Debian, com um foco especial em ferramentas populares e úteis para desenvolvedores. Além disso, fornecerá um script para automatizar a instalação dessas ferramentas.
 
 - Instalando o Linux Mint
