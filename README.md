@@ -33,6 +33,7 @@ Script de Instalação
 - Node.js
 - Python
 - PHP
+- Apache
 - Git
 - GitHub Desktop
 - Visual Studio Code
@@ -151,6 +152,12 @@ install_php() {
    sudo apt-get install -y php8.2
 }
 
+# Função para instalar o Apache Server
+install_apache() {
+   echo "Instalando Apache Server..."
+   sudo apt-get install -y apache2
+}
+
 # Verificar se o sistema é baseado em Debian
 check_debian
 
@@ -164,7 +171,9 @@ install_github_desktop
 install_spotify
 install_git
 install_php
+install_apache
 
 echo "Instalação concluída."
+
 
  ```
