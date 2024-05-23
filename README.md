@@ -37,8 +37,7 @@ Script de Instalação
 - Git
 - GitHub Desktop
 - Visual Studio Code
-- Xampp (OBS: a instalação do Xampp já inclue `Apache web service` `Mysql Database` `phpMyAdmin`)
-
+- Xampp (OBS: a instalação do Xampp já inclue o `Apache Web service` `Mysql Database` e `phpMyAdmin`)
 - Discord
 - Spotify
 
