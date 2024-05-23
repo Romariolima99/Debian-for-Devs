@@ -74,6 +74,7 @@ Script de Instalação
 
 
  ```js
+ 
 #!/bin/bash
 
 # Função para verificar se o sistema é baseado em Debian
@@ -152,10 +153,12 @@ install_php() {
    sudo apt-get install -y php8.2
 }
 
-# Função para instalar o Apache Server
-install_apache() {
-   echo "Instalando Apache Server..."
-   sudo apt-get install -y apache2
+# Função para instalar o XAMPP
+install_xampp() {
+   echo "Instalando XAMPP..."
+   wget https://www.apachefriends.org/xampp-files/8.1.10/xampp-linux-x64-8.1.10-0-installer.run
+   sudo chmod +x xampp-linux-x64-8.1.10-0-installer.run
+   sudo ./xampp-linux-x64-8.1.10-0-installer.run
 }
 
 # Verificar se o sistema é baseado em Debian
@@ -171,9 +174,8 @@ install_github_desktop
 install_spotify
 install_git
 install_php
-install_apache
+install_xampp
 
 echo "Instalação concluída."
-
 
  ```
