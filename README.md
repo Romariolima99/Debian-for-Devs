@@ -37,8 +37,11 @@ Script de Instalação
 - Git
 - GitHub Desktop
 - Visual Studio Code
+- Xampp (OBS: a instalação do Xampp já inclue `Apache web service` `Mysql Database` `phpMyAdmin`)
+
 - Discord
 - Spotify
+
 
 
 
@@ -74,7 +77,7 @@ Script de Instalação
 
 
  ```js
- 
+
 #!/bin/bash
 
 # Função para verificar se o sistema é baseado em Debian
